@@ -1,7 +1,11 @@
-# 🧠 🇧🇩
+<div align="center">
 
-<img src="image/jawadefaj.png" alt="jawadefaj" width="300px" align="right" />
+# ᒍᗩᗯᗩᗪEᖴᗩᒍ
 
-### I'm Jawad 
-**Ph.D. Candidate in Computational Media at UC Santa Cruz** \
+<img src="image/jawadefaj.png" alt="jawadefaj" width="300px" />
+
+### I'm Jawad
+**Ph.D. Candidate in Computational Media at UC Santa Cruz**<br/>
 *Game Developer, ML Enthusiast, and AV Simulation Researcher*
+
+</div>
