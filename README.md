@@ -1,6 +1,6 @@
 <div align="center">
 
-# ᒍᗩᗯᗩᗪEᖴᗩᒍ
+# জাওয়াদ 
 
 <img src="image/jawadefaj.png" alt="jawadefaj" width="500px" />
 
