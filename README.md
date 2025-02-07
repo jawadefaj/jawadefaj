@@ -2,7 +2,7 @@
 
 # ᒍᗩᗯᗩᗪEᖴᗩᒍ
 
-<img src="image/jawadefaj.png" alt="jawadefaj" width="300px" />
+<img src="image/jawadefaj.png" alt="jawadefaj" width="500px" />
 
 ### I'm Jawad
 **Ph.D. Candidate in Computational Media at UC Santa Cruz**<br/>
